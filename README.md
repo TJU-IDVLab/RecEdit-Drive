@@ -1,5 +1,5 @@
 # RecEdit-Drive
-This is the official code repository for ourCVPR 2026 paper:
+This is the official code repository for our CVPR 2026 paper:
 3D Reconstruction-Guided Spatiotemporal Video Editing for Autonomous Driving Scenes
 
 ![Alt text](./RecEdit-Drive.png)
